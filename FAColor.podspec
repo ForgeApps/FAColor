@@ -25,6 +25,7 @@ Pod::Spec.new do |s|
                    * Easy creation of iOS7 Colors
                    * Future: Create colors with RGB
                    * Future: Create colors with Hex
+                   DESC
 
   s.homepage     = "https://github.com/ForgeApps/FAColor"
   # s.screenshots  = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
